@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Stove</string>
+
+    <string name="title_login">Вход</string>
+    <string name="hint_email">Email адрес</string>
+    <string name="hint_full_name">ФИО</string>
+    <string name="hint_phone_number">Номер телефона</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_draft_name">Имя конфигурации</string>
+    <string name="link_forgot_password">Забыли пароль?</string>
+    <string name="button_login">Войти</string>
+    <string name="button_guest">Продолжить без аккаунта</string>
+    <string name="text_no_account">Нет аккаунта?</string>
+    <string name="button_register">Зарегистрироваться</string>
+
+    <string name="title_stoves">Печи</string>
+    <string name="caption_pompeian_oven">Помпейская печь на прицепе!</string>
+    <string name="section_about">О нас</string>
+    <string name="description_about">Информация о компании и наших услугах.</string>
+    <string name="section_favorites">Избранное</string>
+    <string name="description_favorites">Ваши сохраненные проекты и изделия.</string>
+
+    <!-- Нижняя навигация -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_constructor">Конструктор</string>
+    <string name="nav_profile">Профиль</string>
+    <!-- ===============  -->
+
+    <string name="title_about_us">О нас</string>
+    <string name="text_about_us">Мы специализируемся на создании и ремонте печей и каминов, обеспечивая тепло и уют в вашем доме.</string>
+    <string name="text_has_account">Уже есть аккаунт</string>
+
+    <string name="title_services">Наши услуги</string>
+    <string name="service_construction">Строительство печей</string>
+    <string name="service_repair">Ремонт и обслуживание</string>
+    <string name="service_equipment">Подбор оборудования</string>
+    <string name="button_order">Сделать заказ</string>
+    <string name="button_view_works">Посмотреть работы</string>
+
+    <string name="title_articles">Полезные статьи</string>
+    <string name="article_discount_title">Скидка на шампуры от Алексей при заказе Барбекю</string>
+    <string name="article_discount_description">При заказе барбекю получите скидку на шампуры от Алексей.</string>
+    <string name="article_fireplace_title">Правила разжигания камина</string>
+    <string name="article_fireplace_description">Подробная инструкция по разжиганию камина для безопасного и эффективного горения.</string>
+
+    <string name="title_contacts">Контакты</string>
+    <string name="contact_phone">+7 (916) 123–45-67</string>
+    <string name="contact_email">info@pechnik.ru</string>
+
+    <string name="title_profile">Профиль</string>
+    <string name="menu_orders">Заказы</string>
+    <string name="menu_favorites">Избранное</string>
+    <string name="menu_personal_data">Личные данные</string>
+    <string name="menu_logout">Выйти</string>
+
+    <string name="title_type">Тип</string>
+    <string name="caption_fireplace">Камин</string>
+    <string name="caption_stove">Печь</string>
+    <string name="caption_barbecue">Барбекю</string>
+    <string name="caption_fire_pit">Кострище</string>
+    <string name="caption_brick">Кирпич</string>
+    <string name="caption_concrete">Бетон</string>
+
+
+    <string name="title_component">Компоненты</string>
+    <string name="title_constructor">Конструктор</string>
+    <string name="welcome_message">Приветствуем вас в нашей мастерской</string>
+    <string name="subtitle_create">Начните создание своего уникального проекта печи или камина</string>
+    <string name="button_create_new">Создать</string>
+    <string name="button_next">Далее</string>
+    <string name="button_back">Назад</string>
+    <string name="button_choose_favorite">Выбрать из избранного</string>
+    <string name="title_summary">Итог</string>
+    <string name="title_option">Опции</string>
+    <string name="title_addon">Дополнительно</string>
+
+    <string name="button_add_to_favourites">Добавить в избранное</string>
+
+    <!-- Icon's & Image's content description-->
+    <string name="avatar_description">Аватар Вашего профиля</string>
+    <string name="arrow_backward_description">Вернуться назад</string>
+
+</resources>

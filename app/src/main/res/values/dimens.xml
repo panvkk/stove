@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">12dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+
+    <dimen name="active_button_height">72dp</dimen>
+    <dimen name="passive_button_height">64dp</dimen>
+
+    <dimen name="icon_size">24dp</dimen>
+
+    <dimen name="fully_rounded_avatar">64dp</dimen>
+    <dimen name="background_icon_size">40dp</dimen>
+    <dimen name="avatar_size">128dp</dimen>
+    <dimen name="card_size">96dp</dimen>
+    <dimen name="cell_size">150dp</dimen>
+
+    <dimen name="card_elevation">16dp</dimen>
+</resources>
