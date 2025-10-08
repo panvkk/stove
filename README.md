@@ -2,6 +2,9 @@ Android приложение для сборки и заказа печей.
 
 **Я работал в своей ветке чужого репозитория, поэтому историю коммитов можно посмотреть там**: [github](https://github.com/UladzislauShuman/stove/tree/mobile-kostya/android)
 
+
+
+
 **Ключевые технические особенности:**
 
 *Архитектура*: Строгое следование принципам Clean Architecture (разделение на слои Data, Domain и Presentation) в сочетании с архитектурным паттерном MVVM (Model-View-ViewModel).
