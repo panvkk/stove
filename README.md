@@ -33,5 +33,4 @@ Stove - специализированное Android-приложение для
 # 🔗 Project History & Source
 
 Основная разработка велась в отдельной ветке репозитория. Историю коммитов и детали реализации можно изучить по ссылке:
-[github](https://github.com/UladzislauShuman/stove/tree/mobile-kostya/android)
-**GitHub Repository** (Branch: mobile-kostya)
+[**GitHub Repository** (Branch: mobile-kostya)](https://github.com/UladzislauShuman/stove/tree/mobile-kostya/android)
