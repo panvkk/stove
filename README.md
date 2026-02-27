@@ -5,10 +5,10 @@ Stove - специализированное Android-приложение для
 # 📸 Screenshots
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/df9785da-b9b7-42b1-8a60-60e955b24eba" width="250" alt="Login">
-<img src="https://github.com/user-attachments/assets/9c185cc0-ccc3-4fc4-a0b4-129e990437d5" width="250" alt="Main Screen">
-<img src="https://github.com/user-attachments/assets/44ae5ba4-d691-40b0-9996-11702a9952ba" width="250" alt="New">
-<img src="https://github.com/user-attachments/assets/538e587a-0da5-424b-9960-ec918e31e0b3" width="250" alt="Profile">
+<img src="https://github.com/user-attachments/assets/df9785da-b9b7-42b1-8a60-60e955b24eba" width="200" alt="Login">
+<img src="https://github.com/user-attachments/assets/9c185cc0-ccc3-4fc4-a0b4-129e990437d5" width="200" alt="Main Screen">
+<img src="https://github.com/user-attachments/assets/44ae5ba4-d691-40b0-9996-11702a9952ba" width="200" alt="New">
+<img src="https://github.com/user-attachments/assets/538e587a-0da5-424b-9960-ec918e31e0b3" width="200" alt="Profile">
 </p>
 
 # 🛠 Tech Stack & Architecture
